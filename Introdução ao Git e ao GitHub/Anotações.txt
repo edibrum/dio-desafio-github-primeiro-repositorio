@@ -1,0 +1,20 @@
+Comandos básicos:
+
+git status
+git add _nome do arquivo_
+git add * 
+git add .
+
+
+git commit -m "mensagem"
+
+git config --list
+git config --global --unset _o que queremos tirar_
+git congig --global _característica a mudar_ "novo nome que queremos colocar"
+
+
+git remote add origin 
+git remote -v
+
+git push origin master
+git pull origin master
